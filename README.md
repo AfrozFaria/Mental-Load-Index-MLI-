@@ -1,5 +1,7 @@
 # Mental Load Index (MLI) – Interactive Tableau Visualization
 
+Tableau Link: https://public.tableau.com/app/profile/mir.fatema.afroz.faria/viz/Book1_17469482298920/Dashboard3?publish=yes
+
 This repository contains an interactive visualization project on **Mental Load Index (MLI)** for university students, built with **Tableau** as part of a **Interactive Data Visualization** course in the Master’s programme at the **University of Helsinki**.
 
 The goal of the project is to help students **reflect on their mental load** by exploring how factors such as stress, sleep, study time, and screen time interact over time.
