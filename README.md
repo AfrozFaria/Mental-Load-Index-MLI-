@@ -71,7 +71,7 @@ These choices are explained and justified in the project report.
 
 ---
 
-## 🧪 User Study & Iteration
+## User Study & Iteration
 
 As an iterative step, the current Tableau prototype was evaluated with **at least three target users (n ≥ 3)**, one at a time. The study included:
 
